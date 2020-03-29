@@ -1,4 +1,6 @@
 # Pravila natjecanja „Znanstvenik u meni! 2020.“
+Radna verzija Organizacije natjecanja. Čeka konačan prijedlog i javnu raspravu.
+
 ## Tko organizira natjecanje?
 Natjecanje Znanstvenik u meni! 2020. suorganiziraju Educateam i Društvo za edukaciju van okvira kroz neprofitnu inicijativu Together for Knowledge Initative.
 ## Tko se može natjecati?
@@ -67,6 +69,8 @@ Znanstvenu točnost nastupa recenziraju kompetentni stručnjaci za relevantno po
 
 ## Smatram da sam zakinut(a) na natjecanju. Kome se i kako mogu žaliti?
 
+**Prijedlog 1:**
+
 Ako smatrate da ste zakinuti odlukom Organizacije natjecanja u vezi dodjele negativnih bodova ili diskvalifikacije, možete podnijeti žalbu Organizaciji natjecanja na natjecanje@znanstvenikumeni.org. Žalbe je moguće podnijeti u roku 36 sati od preliminarnih rezultata, a Organizacija natjecanja će odgovoriti u najkraćem mogućem roku.
 
 Žalbe podnesene izvan navedenog roka se neće razmatrati.
@@ -74,6 +78,17 @@ Ako smatrate da ste zakinuti odlukom Organizacije natjecanja u vezi dodjele nega
 Ako smatrate da ste zakinuti ocjenama žirija, možete podnijeti žalbu Organizaciji natjecanja na natjecanje@znanstvenikumeni.org u roku 12 sati od preliminarnih rezultata, a Organizacija natjecanja će odgovoriti u najkraćem mogućem roku. 
 
 Žalbe podnesene izvan navedenog roka se neće razmatrati.
+
+**Prijedlog 2:**
+Ako smatrate da ste zakinuti Odlukom organizacije natjecanja u vezi dodjele negativnih bodova ili diskvalifikacije, možete podnijeti žalbu Organizaciji natjecanja **javno** na (neki link). Žalbe je moguće podnijeti u roku 36 sati od preliminarnih rezultata, a Organizacija natjecanja će odgovoriti u najkraćem mogućem roku.
+
+Žalbe podnesene izvan navedenog roka se neće razmatrati.
+
+Ako smatrate da ste zakinuti ocjenama žirija, možete podnijeti žalbu Organizaciji natjecanja **javno** na (neki link) u roku 12 sati od preliminarnih rezultata, a Organizacija natjecanja će odgovoriti u najkraćem mogućem roku. 
+
+Žalbe podnesene izvan navedenog roka se neće razmatrati.
+
+--------------------
 
 Ako smatrate da je Organizacija natjecanja nepravedno postupila ili da je neka odluka Organizacije natjecanja krši Vaša prava koja pružaju ova Pravila i/ili nadležni propisi, protiv istih postupaka i odluka možete podnijeti žalbu Timu za pravne poslove, usklađenost sa zakonom i financije na lcf@togetherforknowledge.eu.
 
