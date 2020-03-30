@@ -12,7 +12,7 @@ Od natjecatelja se očekuje da izaberu temu iz znanosti i da osmisle način kako
 
 U prvoj fazi natjecanja, učenici se natječu snimanjem svoga nastupa u obliku video snimke i prilaganjem iste prilikom prijave na natjecanje.
 
-Nakon prve faze natjecanja, 8 do 15 najboljih natjecatelja će biti pozvano na Završnicu natjecanja gdje će nastupati uživo pred žirijem i publikom.
+Na temelju prve faze natjecanja, a nakon obrade glasova žirija i javnosti prema postupku opisanom u poglavlju "Tko i kako ocjenjuje radove?", 8 do 15 najboljih natjecatelja će biti pozvano na Završnicu natjecanja gdje će nastupati uživo pred žirijem i publikom.
 
 Nastupi uživo moraju trajati između 2 i 4 minute, a video snimke mogu trajati do 30 sekundi duže (dakle, do 4 minute i 30 sekundi). Sve prezentacije koje ne udovoljavaju ovom uvjetu bit će diskvalificirane.
 ## Što je potrebno za prijavu?
@@ -31,6 +31,8 @@ Uređivanje videozapisa dozvoljeno je tek za potrebe blage korekcije boja, slike
 Strogo je zabranjeno rezanje dijelova, jump-cut tehnika, prijelazi, animacije, specijalni efekti i slične promjene. Dakle, video zapis mora biti snimljen u jednom 'komadu' i kao takav mora biti predan. 
 
 Korištenje prezentacijskih alata (npr. Microsoft PowerPoint, LibreOffice Impress, Google Slides, Prezi), projektora i sličnih tehnologija je također zabranjeno.
+
+S obzirom na to da je u radu moguće sudjelovanje jednog ili dva učenika srednje škole, statisti su također zabranjeni.
 
 Najstrože je zabranjeno korištenje djela drugih autora koja su zaštićena autorskim pravima ili drugim pravima intelektualnog vlasništva. 
 
